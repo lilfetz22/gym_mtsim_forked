@@ -11,3 +11,4 @@ build/
 gym_mtsim/data/symbols_forex_1_1_20_12_31_23.pkl
 gym_mtsim/data/symbols_forex_1_1_24_4_11_24.pkl
 gym_mtsim/data/symbols_forex.pkl
+examples/models/
