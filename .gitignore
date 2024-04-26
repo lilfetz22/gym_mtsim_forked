@@ -22,3 +22,4 @@ examples/models_4_18_24/
 examples/models_4_19_24/
 examples/logs/evaluations.npz
 examples/tensorboard_logs/PPO_1/events.out.tfevents.1713520906.DESKTOP-IHKHSBR.10952.0
+examples/best_hyperparameters
