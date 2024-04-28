@@ -24,3 +24,5 @@ examples/logs/evaluations.npz
 examples/tensorboard_logs/PPO_1/events.out.tfevents.1713520906.DESKTOP-IHKHSBR.10952.0
 examples/best_hyperparameters
 examples/best_hyperparameter_search_results.xlsx
+examples/sym_w_actions_n_orders.csv
+examples/sym_w_actions_n_orders.xlsx
