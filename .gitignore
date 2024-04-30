@@ -28,3 +28,4 @@ examples/sym_w_actions_n_orders.csv
 examples/sym_w_actions_n_orders.xlsx
 gym_mtsim/data/symbols_forex_1hr_1_1_24_4_25_24 copy.pkl
 gym_mtsim/data/symbols_forex_1hr_1_1_24_4_25_24 validation.pkl
+examples/sym_w_actions_n_orders2.csv
