@@ -30,3 +30,6 @@ gym_mtsim/data/symbols_forex_1hr_1_1_24_4_25_24 copy.pkl
 gym_mtsim/data/symbols_forex_1hr_1_1_24_4_25_24 validation.pkl
 examples/sym_w_actions_n_orders2.csv
 gym_mtsim/data/symbols_forex_1hr_1_1_10_5_3_24.pkl
+examples/hyperopt/trials_5_11_search_next_week copy.pkl
+examples/hyperopt/trials_5_11_search_next_week.pkl
+examples/hyperopt/trials_5_13_search_next_week.pkl
