@@ -33,3 +33,4 @@ gym_mtsim/data/symbols_forex_1hr_1_1_10_5_3_24.pkl
 examples/hyperopt/trials_5_11_search_next_week copy.pkl
 examples/hyperopt/trials_5_11_search_next_week.pkl
 examples/hyperopt/trials_5_13_search_next_week.pkl
+examples/hyperopt/trials_5_16_timeframe_analysis_daily_retraining.pkl
